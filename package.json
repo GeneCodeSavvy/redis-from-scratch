@@ -16,5 +16,8 @@
 		"url": "https://github.com/GeneCodeSavvy/redis-from-scratch/issues"
 	},
 	"homepage": "https://github.com/GeneCodeSavvy/redis-from-scratch#readme",
-	"description": ""
+	"description": "",
+	"dependencies": {
+		"redis-parser": "^3.0.0"
+	}
 }
